@@ -38,20 +38,3 @@ def mainmenu():
             mainmenu()
 
 mainmenu()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
